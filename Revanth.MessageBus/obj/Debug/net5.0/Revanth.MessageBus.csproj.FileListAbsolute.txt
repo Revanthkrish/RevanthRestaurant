@@ -1,0 +1,12 @@
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\bin\Debug\net5.0\Revanth.MessageBus.deps.json
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\bin\Debug\net5.0\Revanth.MessageBus.dll
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\bin\Debug\net5.0\ref\Revanth.MessageBus.dll
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\bin\Debug\net5.0\Revanth.MessageBus.pdb
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.csproj.AssemblyReference.cache
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.AssemblyInfoInputs.cache
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.AssemblyInfo.cs
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.csproj.CoreCompileInputs.cache
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.dll
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\ref\Revanth.MessageBus.dll
+C:\Practise\.NET Core Practise\RevanthRestaurant\Revanth.MessageBus\obj\Debug\net5.0\Revanth.MessageBus.pdb
